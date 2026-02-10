@@ -27,8 +27,8 @@ A Django-based backend service for uploading CSV files, processing analytics, vi
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/arunimasingh26/analytics-api-django.git
+cd analytics-api-django
 ```
 
 ### 2. Create and activate virtual environment
